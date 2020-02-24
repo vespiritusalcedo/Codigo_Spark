@@ -2,3 +2,4 @@
 /workspace.xml
 out/
 spark-warehouse/
+target/
